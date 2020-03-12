@@ -1,13 +1,39 @@
-/*
+/* -> Description
+*
  * 4 Wheels
  *
  * -User/Controller 1-
- * Wheels: (2 per) Left & Right JoyStick
+ * Wheels: (2 per) Left & Right Stick
  * Park: Button X & Y
  *
  * -User/Controller 2-
- * Arm Wire: Left JoyStick
+ * Arm Wire: Left Stick
  * Arm Grip: Left & Right Bumper
+ *
+ * -> Configuration
+ *
+ * ## Motor channel
+ *
+ * # Front
+ * Left front - drive motor: "leftFrontDrive"
+ * Right front - drive motor: "RightFrontDrive"
+ *
+ * # Rear
+ * Left rear - drive motor: "leftRearDrive"
+ * Right rear - drive motor: "rightRearDrive"
+ *
+ * # Arm
+ * Manipulator - drive motor: "armWire"
+ *
+ * ## Servo channel
+ *
+ * # Arm Grip
+ * Servo to control left-side grip: "armLeftGrip"
+ * Servo to control right-side grip: "armRightGrip"
+ *
+ * # Park
+ * Servo to open left claw: "leftParkClaw"
+ * Servo to open right claw: "leftParkClaw"
  */
 
 package org.firstinspires.ftc.teamcode;
