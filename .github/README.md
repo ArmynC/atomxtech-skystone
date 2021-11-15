@@ -2,4 +2,4 @@
 Java code for First Tech Challenge robots.
 
 ## License
-[GNU LGPLv3](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
+[CC0 1.0](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
