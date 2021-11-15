@@ -176,7 +176,6 @@ public class DogTeleOp extends LinearOpMode {
             telemetry.addData("Wheels:", "left (%.2f), right (%.2f)", leftPower, rightPower);
             telemetry.addData("Arm:", "(%.2f)", armPower);
             telemetry.addData("Grip:",  "Position = %.2f", armGripSpeed);
-            telemetry.addLine("...via www.ArminC.Ga");
             telemetry.update();
 
         }
