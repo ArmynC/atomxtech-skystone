@@ -1,5 +1,4 @@
-/* -> Description
-*
+/*
  * 4 Wheels
  *
  * -User/Controller 1-
@@ -35,6 +34,8 @@
  * Servo to open left claw: "leftParkClaw"
  * Servo to open right claw: "leftParkClaw"
  */
+
+/* Luke & Armin */
 
 package org.firstinspires.ftc.teamcode;
 
