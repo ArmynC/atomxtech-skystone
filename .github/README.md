@@ -1,4 +1,4 @@
-# ArminC-SkyStone
+# atomxtech-skystone
 Java code for First Tech Challenge robots.
 
 ## License
