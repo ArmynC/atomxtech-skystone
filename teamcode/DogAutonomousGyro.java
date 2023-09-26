@@ -1,6 +1,6 @@
 // Simple autonomous program that drives bot forward until end of period.
 // Demonstrates obstacle avoidance and use of a MR gyro sensor.
-// Ssupports left as well as right turn.
+// Supports left as well as right turn.
 // Also uses gyro to drive in a straight line when not avoiding an obstacle.
 
 package org.firstinspires.ftc.teamcode;
